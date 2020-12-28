@@ -3,7 +3,7 @@
 
 😎 A curated list of awesome resources for engineer onboarding
 
-## Articles
+## Posts
 ### Artistanbul
 * [Uzaktan Çalışmada İşe Katılım Süreçleri](https://www.artistanbul.io/blog/2020/11/27/uzaktan-calismada-ise-katilim-surecleri/)
 ### BiSU
