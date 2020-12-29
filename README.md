@@ -1,7 +1,7 @@
 ## 🚀Awesome Onboarding
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 
-😎 A curated list of awesome resources for engineer onboarding
+😎 A curated list of awesome resources for software engineer onboarding
 
 ## Contents
 
