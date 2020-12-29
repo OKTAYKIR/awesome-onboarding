@@ -3,6 +3,19 @@
 
 😎 A curated list of awesome resources for engineer onboarding
 
+## Contents
+
+* [Posts](#real-world)
+  * [Artistanbul](#artistanbul)
+  * [BiSU](#bisu)
+  * [Craftbase](#craftbase)
+  * [Dolap](#dolap)
+  * [Medium](#medium)
+  * [Trendyol](#trendyol)
+* [Resources](#resources)
+  * [Articles](#articles)
+  * [Videos](#videos)
+  
 ## Posts
 ### Artistanbul
 * [Uzaktan Çalışmada İşe Katılım Süreçleri](https://www.artistanbul.io/blog/2020/11/27/uzaktan-calismada-ise-katilim-surecleri/)
@@ -16,6 +29,11 @@
 * [Engineering Onboarding Processes at Medium](https://medium.engineering/engineering-onboarding-processes-at-medium-368095116ac3)
 ### Trendyol
 * [Pandemi Döneminde Yeni İşe Başlamak](https://medium.com/trendyol-tech/pandemi-d%C3%B6neminde-yeni-i%CC%87%C5%9Fe-ba%C5%9Flamak-64f0c4f1e541)
+
+## Resources
+### Articles
+### Videos
+
 ## 🤝 Contributing
 1. Fork it ( https://github.com/OKTAYKIR/awesome-onboarding/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
