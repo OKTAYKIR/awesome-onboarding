@@ -11,6 +11,7 @@
   * [Craftbase](#craftbase)
   * [Dolap](#dolap)
   * [Medium](#medium)
+  * [Smartup Network](#smartup-network)
   * [Trendyol](#trendyol)
 * [Resources](#resources)
   * [Articles](#articles)
@@ -27,6 +28,8 @@
 * [Dolap teknoloji ekibinde “onboarding” | @ work from home](https://medium.com/dolap-tech/dolap-teknoloji-ekibinde-onboarding-work-from-home-241b545fdab9)
 ### Medium
 * [Engineering Onboarding Processes at Medium](https://medium.engineering/engineering-onboarding-processes-at-medium-368095116ac3)
+### Smartup Network
+* [Adapting New Joiners To The Team](https://www.linkedin.com/pulse/adapting-new-joiners-team-umut-i%C5%9Fik/)
 ### Trendyol
 * [Pandemi Döneminde Yeni İşe Başlamak](https://medium.com/trendyol-tech/pandemi-d%C3%B6neminde-yeni-i%CC%87%C5%9Fe-ba%C5%9Flamak-64f0c4f1e541)
 
