@@ -1,6 +1,8 @@
 ## 🚀Awesome Onboarding
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 
+[![HitCount](http://hits.dwyl.com/{OKTAYKIR}/awesome-onboarding.svg)](http://hits.dwyl.com/OKTAYKIR/awesome-onboarding)
+
 😎 A curated list of awesome resources for software engineer onboarding
 
 ## Contents
