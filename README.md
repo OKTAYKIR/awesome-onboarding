@@ -1,5 +1,5 @@
 ## 🚀Awesome Onboarding
-[![HitCount](http://hits.dwyl.com/OKTAYKIR/awesome-onboarding.svg)](https://github.com/OKTAYKIR/awesome-onboarding)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/OKTAYKIR/awesome-onboarding)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://oktaykir.medium.com/)
 
