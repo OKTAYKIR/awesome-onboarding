@@ -1,7 +1,7 @@
 ## 🚀Awesome Onboarding
 [![HitCount](http://hits.dwyl.com/OKTAYKIR/awesome-onboarding.svg)](https://github.com/OKTAYKIR/awesome-onboarding)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
-[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@beyazkir)
+[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://oktaykir.medium.com/)
 
 😎 A curated list of awesome resources for software engineer onboarding
 
