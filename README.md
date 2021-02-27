@@ -1,8 +1,8 @@
 ## 🚀Awesome Onboarding
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/OKTAYKIR/awesome-onboarding)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 ![GitHub issues](https://img.shields.io/github/issues/OKTAYKIR/awesome-onboarding)
-[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://oktaykir.medium.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
+[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/bili%C5%9Fim-hareketi/teknoloji-ekiplerindeki-onboarding-s%C3%BCre%C3%A7leri-kaynak-payla%C5%9F%C4%B1mlar-15f9ae09ef75)
 
 😎 A curated list of awesome resources for software engineer onboarding
 
