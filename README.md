@@ -18,6 +18,7 @@
   * [Trendyol](#trendyol)
 * [Resources](#resources)
   * [Articles](#articles)
+    * [Streamlining The Developer Onboarding Process: A How-To Guide](#articles)
   * [Videos](#videos)
   
 ## Posts
@@ -38,6 +39,7 @@
 
 ## Resources
 ### Articles
+* [Streamlining The Developer Onboarding Process: A How-To Guide](https://hackernoon.com/streamlining-the-developer-onboarding-process-a-how-to-guide-4e2k329t)
 ### Videos
 
 ## 🤝 Contributing
