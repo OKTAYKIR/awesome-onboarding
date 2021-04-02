@@ -36,7 +36,7 @@
 * [Adapting New Joiners To The Team](https://www.linkedin.com/pulse/adapting-new-joiners-team-umut-i%C5%9Fik/) (English)
 ### Trendyol
 * [Pandemi Döneminde Yeni İşe Başlamak](https://medium.com/trendyol-tech/pandemi-d%C3%B6neminde-yeni-i%CC%87%C5%9Fe-ba%C5%9Flamak-64f0c4f1e541) (Turkish)
-
+* [Onboarding Guide for New QA Recruits in Trendyol Android Team]( https://medium.com/trendyol-tech/onboarding-guide-for-new-qa-recruits-in-trendyol-android-team-6967b7d34757) (English)
 ## Resources
 ### Articles
 * [Streamlining The Developer Onboarding Process: A How-To Guide](https://hackernoon.com/streamlining-the-developer-onboarding-process-a-how-to-guide-4e2k329t)
